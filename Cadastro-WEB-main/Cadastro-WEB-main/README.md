@@ -28,51 +28,6 @@ Desenvolver um sistema funcional de cadastro de usuários, contendo validação 
 
 ---
 
-## 4. Requisitos do Sistema
-
-### 4.1 Requisitos Funcionais (RF)
-| Código | Descrição |
-|:--|:--|
-| RF01 | O sistema deve permitir o cadastro de usuários. |
-| RF02 | O sistema deve validar campos obrigatórios antes do envio. |
-| RF03 | O sistema deve exibir mensagens de sucesso ou erro após o envio. |
-| RF04 | O sistema deve permitir a visualização dos dados cadastrados. |
-| RF05 | O sistema deve permitir a edição de informações do usuário. |
-| RF06 | O sistema deve permitir a exclusão de um usuário cadastrado. |
-
-### 4.2 Requisitos Não Funcionais (RNF)
-| Código | Descrição |
-|:--|:--|
-| RNF01 | O sistema deve ser desenvolvido em HTML, CSS e JavaScript. |
-| RNF02 | O sistema deve apresentar um design responsivo. |
-| RNF03 | O carregamento da página não deve ultrapassar 3 segundos. |
-| RNF04 | O código deve ser compatível com navegadores modernos (Chrome, Edge, Firefox). |
-| RNF05 | O sistema deve ter uma interface intuitiva e de fácil navegação. |
-
----
-
-## 5. Diagrama Entidade-Relacionamento (DER)
-
-Entidade: `Usuario`  
-Atributos:
-- id_usuario (PK)  
-- nome  
-- email  
-- senha  
-- confirmar_senha  
-- cpf  
-- data_nascimento  
-- telefone  
-- endereco  
-- cidade  
-- estado  
-- cep  
-
-O DER representa uma única entidade principal (Usuário).  
-Em versões futuras, poderão ser adicionadas novas entidades, como Perfil ou Permissão.
-
----
-
 ## 6. Diagrama de Caso de Uso
 
 Ator Principal: Usuário  
