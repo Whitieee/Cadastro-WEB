@@ -123,5 +123,5 @@ A próxima etapa será integrar o backend desenvolvido em Flask e o banco de dad
 ---
 
 ## Autores
-- Seu Nome Aqui  
-- Outros Integrantes (se houver)
+- Pedro Lucas Miranda Teles
+- Kauan Lindolfo
