@@ -2,8 +2,6 @@
 
 ## 1. Introdução
 O sistema de Cadastro de Usuários tem como objetivo permitir o registro e gerenciamento de informações de usuários de forma simples e eficiente.  
-Esta é a FASE 1 do projeto, focada em Frontend e Documentação.  
-A FASE 2 incluirá a integração com Flask (Python) e SQLite (banco de dados).
 
 ---
 
